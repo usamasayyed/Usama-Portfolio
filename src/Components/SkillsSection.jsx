@@ -58,7 +58,7 @@ export default function SkillsSection() {
             <div className="w-16 h-16 mx-auto mb-4 bg-gray-100 dark:bg-gray-800 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
               {renderSkillIcon(skill)}
             </div>
-            <p className="font-semibold text-gray-700 dark:text-gray-300 font-inter dark:text-white">
+            <p className="font-semibold text-gray-700.0 font-inter dark:text-white">
               {skill.name}
             </p>
           </div>
