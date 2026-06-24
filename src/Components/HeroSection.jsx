@@ -30,7 +30,7 @@ export default function HeroSection() {
           </h2>
 
           <p className="text-lg md:text-xl text-gray-600 dark:text-white max-w-2xl mx-auto leading-relaxed font-inter">
-            I'm a Frontend Engineer with 2.5 years of experience, specializing
+            I'm a Frontend Engineer with 1+ years of experience, specializing
             in
             <span className="text-blue-500 dark:text-blue-400 font-semibold">
               {" "}

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function AboutSection() {
   const stats = [
-    { number: "2+", label: "Years of Experience", color: "text-green-500" },
+    { number: "1+", label: "Years of Experience", color: "text-green-500" },
     { number: "15+", label: "Projects Completed", color: "text-purple-500" },
     { number: "10+", label: "Skills Mastered", color: "text-blue-500" },
   ];
